@@ -25,6 +25,8 @@ Aunque Excel es una herramienta muy versátil que permite realizar múltiples mo
 El modelo es muy eficiente, aunque no es perfecto y para nuestro proyecto no logro la clasificación esperada, sería necesario realizar más modificaciones, ajustar mejor los datos y probar múltiples variables para cada cluster, para lograr mejores resultados de clasificación.
 
 ## Referencias
+
 David Langer. (n.d.). K-means Cluster Analysis With Excel - A Tutorial. Retrieved from DaveOnData: https://youtu.be/YuxwkchSAW4?si=6vRzlQtrIWdp2VbB
 
+Lo, T.-w. (n.d.). Fish species sampling weight and height data. Retrieved from Kaggle: https://www.kaggle.com/datasets/taweilo/fish-species-sampling-weight-and-height-data/data
 
